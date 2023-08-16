@@ -1,2 +1,2 @@
 # Throwgame
- atma oyunun
+ throw game
